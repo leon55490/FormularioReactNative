@@ -1,0 +1,4 @@
+Depedencias:
+npx expo install @react-native-picker/picker
+npx expo install @react-native-community/checkbox
+npx expo install react-native-color-picker
